@@ -1,0 +1,729 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 954,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "XdMVAQAAIAAJ",
+      "etag": "aRPlawXnGZM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XdMVAQAAIAAJ",
+      "volumeInfo": {
+        "title": "موسوعة الإدارة العربية الإسلامية",
+        "publishedDate": "2004",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105118046502"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 636,
+        "printType": "BOOK",
+        "categories": [
+          "Islamic Empire"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.5.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XdMVAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XdMVAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "ar",
+        "previewLink": "http://books.google.com.eg/books?id=XdMVAQAAIAAJ&q=inauthor+%3D+Atef+Mansour+Ramadan&dq=inauthor+%3D+Atef+Mansour+Ramadan&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.eg/books?id=XdMVAQAAIAAJ&dq=inauthor+%3D+Atef+Mansour+Ramadan&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%D9%85%D9%88%D8%B3%D9%88%D8%B9%D8%A9_%D8%A7%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A.html?hl=&id=XdMVAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "EG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "EG",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XdMVAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... د. عبد الله محمد جمال الدين ، أستاذ التاريخ الإسلامي والحضارة الإسلامية كلية دار العلوم - جامعة القاهرة ، مصر \u003cb\u003eاطف منصور\u003c/b\u003e محمد \u003cb\u003eرمضان\u003c/b\u003e مدرس المسكوكات الإسلامية – كلية الآداب - جامعة جنوب الوادي ، مصر . • أ.د. عبد الحليم عبد الفتاح عويس&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZlCpOxbRQBUC",
+      "etag": "Lw6N++RzAUw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZlCpOxbRQBUC",
+      "volumeInfo": {
+        "title": "في مكان نسكنه في زمان يسكننا",
+        "authors": [
+          "كوني، ابراهيم"
+        ],
+        "publisher": "AIRP",
+        "publishedDate": "2006",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9953369402"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789953369402"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 186,
+        "printType": "BOOK",
+        "categories": [
+          "Arabic fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.7.5.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZlCpOxbRQBUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZlCpOxbRQBUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ar",
+        "previewLink": "http://books.google.com.eg/books?id=ZlCpOxbRQBUC&printsec=frontcover&dq=inauthor+%3D+Atef+Mansour+Ramadan&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.eg/books?id=ZlCpOxbRQBUC&dq=inauthor+%3D+Atef+Mansour+Ramadan&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%D9%81%D9%8A_%D9%85%D9%83%D8%A7%D9%86_%D9%86%D8%B3%D9%83%D9%86%D9%87_%D9%81%D9%8A_%D8%B2%D9%85%D8%A7%D9%86.html?hl=&id=ZlCpOxbRQBUC"
+      },
+      "saleInfo": {
+        "country": "EG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "EG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.eg/books/download/%D9%81%D9%8A_%D9%85%D9%83%D8%A7%D9%86_%D9%86%D8%B3%D9%83%D9%86%D9%87_%D9%81%D9%8A_%D8%B2%D9%85%D8%A7%D9%86-sample-pdf.acsm?id=ZlCpOxbRQBUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZlCpOxbRQBUC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Ew5RAAAAYAAJ",
+      "etag": "aK3cdg3NNLs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Ew5RAAAAYAAJ",
+      "volumeInfo": {
+        "title": "المصور",
+        "publishedDate": "2007",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UVA:X030053693"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1000,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.9.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Ew5RAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Ew5RAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "ar",
+        "previewLink": "http://books.google.com.eg/books?id=Ew5RAAAAYAAJ&q=inauthor+%3D+Atef+Mansour+Ramadan&dq=inauthor+%3D+Atef+Mansour+Ramadan&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.eg/books?id=Ew5RAAAAYAAJ&dq=inauthor+%3D+Atef+Mansour+Ramadan&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%D8%A7%D9%84%D9%85%D8%B5%D9%88%D8%B1.html?hl=&id=Ew5RAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "EG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "EG",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Ew5RAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... د . رمسيس عوض لبنى عبدالمجيد د . أنور عبدالملك خيرى \u003cb\u003eمنصور\u003c/b\u003e سليمان الحكيم . مواطنون محمد هيكل حامد الشناوي رجائي عطية الأديان والزمن والناس د . عبد الغفار مكاوى أجمل قصص الحب في الأدب د . ماهر شفيق فريد مال العطار \u003cb\u003eعاطف اطف\u003c/b\u003e مرسى المصرى&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nvtxg54lsmwC",
+      "etag": "fNOcp66S/Ms",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nvtxg54lsmwC",
+      "volumeInfo": {
+        "title": "\u200fالجريدة الرسمية /\u200f",
+        "authors": [
+          "\u200fمصر"
+        ],
+        "publishedDate": "2010",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105133290952"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1180,
+        "printType": "BOOK",
+        "categories": [
+          "Egypt"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.5.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nvtxg54lsmwC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nvtxg54lsmwC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "ar",
+        "previewLink": "http://books.google.com.eg/books?id=nvtxg54lsmwC&q=inauthor+%3D+Atef+Mansour+Ramadan&dq=inauthor+%3D+Atef+Mansour+Ramadan&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.eg/books?id=nvtxg54lsmwC&dq=inauthor+%3D+Atef+Mansour+Ramadan&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%D8%A7%D9%84%D8%AC%D8%B1%D9%8A%D8%AF%D8%A9_%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A%D8%A9.html?hl=&id=nvtxg54lsmwC"
+      },
+      "saleInfo": {
+        "country": "EG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "EG",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nvtxg54lsmwC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eمنصور\u003c/b\u003e . عادل محمد رفاعي الفــتــيــاني . \u003cb\u003eاطف\u003c/b\u003e أبو المجـــــــد كــــــــامــل علـى ــحــمد مد مرسی نبال إبراهيم تـوفــــــــيـق الجـــــــــل مدحت نمر السـ د الله إيمان عبد الله مــحــمــد حــب حکمت صابر محمد عبد المنعم . منى \u003cb\u003eرمضـــان\u003c/b\u003e&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UqpQEAAAQBAJ",
+      "etag": "wryRq3gD78E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UqpQEAAAQBAJ",
+      "volumeInfo": {
+        "title": "الفرج بعد الشدة",
+        "authors": [
+          "al-Muḥassin ibn ʻAlī Tanūkhī"
+        ],
+        "publisher": "دائرة الثقافة والسياحة – أبوظبي، مركز أبوظبي للغة العربية، إصدارات",
+        "publishedDate": "1900-01-01",
+        "description": "\"هذا الكتاب الذي يحمل في طياته مجموعة من الحكايا والقصص التي تروي ما حدث لرجال عاشوا واقعاً صعباً وضاقت عليهم السبل وأيقنوا بالهلاك وسيطر عليهم اليأس ثم تتالت الأحداث وسرعان ما انقشعت الغيوم التي لبدت سماءهم لتكشف عن أشعة الشمس التي سطعت لتنير الدروب أمامهم وتفرج عن همومهم وتزيل العقبات الجاثمة في طريقهم. هذا الكتاب الذي جمعه التنوخي فيه متعة للقارئ بما يقدمه من عبرة وعظة من خلال الأحداث التي يسردها بواقعية وبحس مرهف واضعاً للقارئ في جو الحدث وكأنه يعايشه ويتفاعل مع مجرياته وفي النهاية يتأثر بما يدور في هذه الحكايات التي تأسر اللب والعقل معاً.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789948173557"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9948173554"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 41,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UqpQEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UqpQEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ar",
+        "previewLink": "http://books.google.com.eg/books?id=UqpQEAAAQBAJ&printsec=frontcover&dq=inauthor+%3D+Atef+Mansour+Ramadan&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.eg/books?id=UqpQEAAAQBAJ&dq=inauthor+%3D+Atef+Mansour+Ramadan&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%D8%A7%D9%84%D9%81%D8%B1%D8%AC_%D8%A8%D8%B9%D8%AF_%D8%A7%D9%84%D8%B4%D8%AF%D8%A9.html?hl=&id=UqpQEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "EG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "EG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.eg/books/download/%D8%A7%D9%84%D9%81%D8%B1%D8%AC_%D8%A8%D8%B9%D8%AF_%D8%A7%D9%84%D8%B4%D8%AF%D8%A9-sample-epub.acsm?id=UqpQEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.eg/books/download/%D8%A7%D9%84%D9%81%D8%B1%D8%AC_%D8%A8%D8%B9%D8%AF_%D8%A7%D9%84%D8%B4%D8%AF%D8%A9-sample-pdf.acsm?id=UqpQEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UqpQEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;هذا الكتاب الذي يحمل في طياته مجموعة من الحكايا والقصص التي تروي ما حدث لرجال عاشوا واقعاً صعباً وضاقت عليهم السبل وأيقنوا بالهلاك ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Ekzfs2tgpvIC",
+      "etag": "R/VHaNIU9to",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Ekzfs2tgpvIC",
+      "volumeInfo": {
+        "title": "Tārīḫ al-Kāmil",
+        "authors": [
+          "ʻIzz-ad-Dīn Abu-'l-Ḥasan ʻAlī Ibn-al-At̲īr"
+        ],
+        "publishedDate": "1890",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "BSB:BSB11735971"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 244,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Ekzfs2tgpvIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Ekzfs2tgpvIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ar",
+        "previewLink": "http://books.google.com.eg/books?id=Ekzfs2tgpvIC&pg=RA1-PA18&dq=inauthor+%3D+Atef+Mansour+Ramadan&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Ekzfs2tgpvIC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Ekzfs2tgpvIC"
+      },
+      "saleInfo": {
+        "country": "EG",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=Ekzfs2tgpvIC&rdid=book-Ekzfs2tgpvIC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "EG",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.eg/books/download/T%C4%81r%C4%AB%E1%B8%AB_al_K%C4%81mil.epub?id=Ekzfs2tgpvIC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Ekzfs2tgpvIC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... د لاله وتجنيه واغرى العسكر برجل من العامة فدخل منهم قدر افضال محمد بن بالشعب وال بالشعب والتوتب على الوزير أبي \u003cb\u003eمنصور\u003c/b\u003e بن صالحان فلقوه بما يكره \u003cb\u003eفلاطفهم\u003c/b\u003e ... \u003cb\u003eرمضان\u003c/b\u003e ولم يتركه ما يمضيان الى كنامة وتجهز لحرب كتامة وأبى الفهم وسار بعد عيد الاضحى فقصد&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Np-iwAEACAAJ",
+      "etag": "ZIntVi4+fE4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Np-iwAEACAAJ",
+      "volumeInfo": {
+        "title": "مجموع فتاوى ورسائل فضيلة الشيخ محمد بن صالح العثيمين",
+        "authors": [
+          "عثيمين، محمد صالح"
+        ],
+        "publishedDate": "1994",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9960924637"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789960924632"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Fatwas"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "ar",
+        "previewLink": "http://books.google.com.eg/books?id=Np-iwAEACAAJ&dq=inauthor+%3D+Atef+Mansour+Ramadan&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.eg/books?id=Np-iwAEACAAJ&dq=inauthor+%3D+Atef+Mansour+Ramadan&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%D9%85%D8%AC%D9%85%D9%88%D8%B9_%D9%81%D8%AA%D8%A7%D9%88%D9%89_%D9%88%D8%B1%D8%B3%D8%A7%D8%A6%D9%84_%D9%81%D8%B6.html?hl=&id=Np-iwAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "EG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "EG",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Np-iwAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uQjtDwAAQBAJ",
+      "etag": "bTUugiXWLvw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uQjtDwAAQBAJ",
+      "volumeInfo": {
+        "title": "الأزمنة والأمكنة",
+        "authors": [
+          "أبي علي أحمد بن محمد/المرزوقي الأصفهاني"
+        ],
+        "publisher": "Dar Al Kotob Al Ilmiyah دار الكتب العلمية",
+        "publishedDate": "1996-01-01",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782745102904"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2745102907"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 558,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uQjtDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uQjtDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ar",
+        "previewLink": "http://books.google.com.eg/books?id=uQjtDwAAQBAJ&printsec=frontcover&dq=inauthor+%3D+Atef+Mansour+Ramadan&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=uQjtDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=uQjtDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "EG",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 421.37,
+          "currencyCode": "EGP"
+        },
+        "retailPrice": {
+          "amount": 421.37,
+          "currencyCode": "EGP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=uQjtDwAAQBAJ&rdid=book-uQjtDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 421370000,
+              "currencyCode": "EGP"
+            },
+            "retailPrice": {
+              "amountInMicros": 421370000,
+              "currencyCode": "EGP"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "EG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.eg/books/download/%D8%A7%D9%84%D8%A3%D8%B2%D9%85%D9%86%D8%A9_%D9%88%D8%A7%D9%84%D8%A3%D9%85%D9%83%D9%86%D8%A9-sample-pdf.acsm?id=uQjtDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uQjtDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "كتاب يبحث في موضوعات لها من الأهمية شأن كبير في معرفة الطبيعة وحركة الكواكب وتسمياتها وقوانينها، وبيان الليل والنهار، وابتداء ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hfZuDwAAQBAJ",
+      "etag": "+/DSC6hlKgE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hfZuDwAAQBAJ",
+      "volumeInfo": {
+        "title": "الجليس الصالح الكافي والأنيس الناصح الشافي",
+        "authors": [
+          "ابن طرار الجريري النهرواني"
+        ],
+        "publisher": "Dar Al Kotob Al Ilmiyah دار الكتب العلمية",
+        "publishedDate": "2005-01-01",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782745146410"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2745146416"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 760,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hfZuDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hfZuDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ar",
+        "previewLink": "http://books.google.com.eg/books?id=hfZuDwAAQBAJ&printsec=frontcover&dq=inauthor+%3D+Atef+Mansour+Ramadan&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=hfZuDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=hfZuDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "EG",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 526.71,
+          "currencyCode": "EGP"
+        },
+        "retailPrice": {
+          "amount": 526.71,
+          "currencyCode": "EGP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=hfZuDwAAQBAJ&rdid=book-hfZuDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 526710000,
+              "currencyCode": "EGP"
+            },
+            "retailPrice": {
+              "amountInMicros": 526710000,
+              "currencyCode": "EGP"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "EG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.eg/books/download/%D8%A7%D9%84%D8%AC%D9%84%D9%8A%D8%B3_%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%AD_%D8%A7%D9%84%D9%83%D8%A7%D9%81%D9%8A-sample-pdf.acsm?id=hfZuDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hfZuDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "كتاب مهم يتضمن علوما ونصائح وادابا وفنونا وتسلية وتوجيهات مختلفة تفيد القارىء ، .فجاء مشتملا على قصص وغرائب وطرائف واشعار كثيرة جدا ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mbI3AQAAIAAJ",
+      "etag": "cGWq2Ctr2r8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mbI3AQAAIAAJ",
+      "volumeInfo": {
+        "title": "العلماء والسلطة",
+        "subtitle": "دراسة عن دور العلماء في الحياة السياسية والإقتصادية في العصر العباسي الأول",
+        "authors": [
+          "سيف الدين، عبد الحكيم عبد الحق"
+        ],
+        "publishedDate": "2008",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105215751699"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 592,
+        "printType": "BOOK",
+        "categories": [
+          "Abbasids"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mbI3AQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mbI3AQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "ar",
+        "previewLink": "http://books.google.com.eg/books?id=mbI3AQAAIAAJ&q=inauthor+%3D+Atef+Mansour+Ramadan&dq=inauthor+%3D+Atef+Mansour+Ramadan&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.eg/books?id=mbI3AQAAIAAJ&dq=inauthor+%3D+Atef+Mansour+Ramadan&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%D8%A7%D9%84%D8%B9%D9%84%D9%85%D8%A7%D8%A1_%D9%88%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A9.html?hl=&id=mbI3AQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "EG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "EG",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mbI3AQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}
